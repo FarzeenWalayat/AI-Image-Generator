@@ -100,7 +100,7 @@ client = InferenceClient(
 ##########################################################
 
 # Set background image from local project folder manually
-selected_bg_path = "backgrounds/Blue and White Simple Nature Flower Water Quotes Desktop Wallpaper.png"
+selected_bg_path = "backgrounds/Blue_and_White_Simple_Nature_Flower_Water_Quotes_Desktop_Wallpaper.png"
 
 # = "backgrounds/Blue Simple Keep Calm Desktop Wallpaper.png"
 #selected_bg_path = "backgrounds/Blue Gradient Modern Professional Company Zoom Virtual Background.png"
